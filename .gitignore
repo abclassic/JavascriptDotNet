@@ -1,0 +1,7 @@
+.svn
+*.svn
+*.suo
+*.user
+*.dll
+Debug/
+Release/
